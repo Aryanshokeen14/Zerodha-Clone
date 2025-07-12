@@ -1,0 +1,19 @@
+.link{
+    color:rgb(89, 89, 89);
+    text-decoration: none;
+}
+.link:hover{
+    color:rgb(4, 145, 227);
+}
+
+.footer-content{
+    font-size: 12px;
+    color:rgb(114, 114, 114);
+}
+.content-link{
+    text-decoration: none;
+    color:rgb(51, 116, 196);
+}
+.content-link:hover{
+    color:rgb(68,68,68)
+}
