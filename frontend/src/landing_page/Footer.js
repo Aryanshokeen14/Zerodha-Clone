@@ -93,6 +93,10 @@ function Footer() {
                 <p><a className='link' href="/">For investor's attention</a></p>
                 <p><a className='link' href="/">Investor charter</a></p>
             </div>
+
+            <div className='text-center'>
+                <a href="https://www.linkedin.com/in/aryan-shokeen-529316265/"  style={{textDecoration:"none"}}>Deployed by Aryan Shokeen</a>
+            </div>
            </div>
         </div>
      );
