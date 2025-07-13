@@ -10,6 +10,7 @@ const buttonStyle={
 function Hero() {
     return (  
         <div className='container p-5 mb-3 mt-5'>
+            <br/><br/>
             <div className='row text-center col-12' style={{justifyContent:"center"}}>
                 <img src='media/images/homeHero.png' alt='Hero Image' className='mb-5' style={{width:"80%"}}/>  
                 

@@ -5,3 +5,9 @@
 .Navlink:hover{
     color:rgb(4, 145, 227);
 }
+.navbar{
+    position: fixed;
+    width: 100%;
+    top:0;
+    background-color: white;
+}

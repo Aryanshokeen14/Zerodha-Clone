@@ -18,7 +18,7 @@ function Footer() {
                 <i className="fa fa-telegram mx-3 link" style={{fontSize:"23px"}} aria-hidden="true"></i>
             </div>
             <div className='col-2'>
-                <h3 className='mb-4 '>Account</h3>
+                <h3 className='mb-4' style={{ fontSize: "22px" }}>Account</h3>
                 <p><a className='link' href=''>Open demat account</a></p>
                 <p><a className='link' href=''>Minor demat account</a></p>
                 <p><a className='link' href=''>NRI demat account</a></p>
@@ -29,7 +29,7 @@ function Footer() {
                 <p><a className='link' href=''>Referral program</a></p>                
             </div>
             <div className='col-2'>
-                <h3 className='mb-4'>Support</h3>
+                <h3 className='mb-4' style={{ fontSize: "22px" }}>Support</h3>
                 <p><a className='link' href=''>Contact us</a></p>
                 <p><a className='link' href=''>Support portal</a></p>
                 <p><a className='link' href=''>How to file a complaint?</a></p>
@@ -40,7 +40,7 @@ function Footer() {
                 <p><a className='link' href=''>Downloads</a></p>
             </div>
             <div className='col-2'>
-                <h3 className='mb-4'>Company</h3>
+                <h3 className='mb-4' style={{ fontSize: "22px" }}>Company</h3>
                 <p><a className='link' href=''>About</a></p>
                 <p><a className='link' href=''>Philosophy</a></p>
                 <p><a className='link' href=''>Press & media</a></p>
@@ -50,7 +50,7 @@ function Footer() {
                 <p><a className='link' href=''>Open source</a></p>
             </div>
             <div className='col-2'>
-                <h3 className='mb-4'>Quick links</h3>
+                <h3 className='mb-4' style={{ fontSize: "22px" }}>Quick links</h3>
                 <p><a className='link' href=''>Upcoming IPOs</a></p>
                 <p><a className='link' href=''>Brokerage charges</a></p>
                 <p><a className='link' href=''>Market holidays</a></p>
