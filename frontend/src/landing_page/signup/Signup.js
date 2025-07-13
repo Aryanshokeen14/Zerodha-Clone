@@ -44,7 +44,7 @@ function SignUp() {
           <button
           type='submit'
             onClick={handleRefresh}
-            className="p-2 btn btn-primary fs-5 mb-5 mt-3"
+            className="no-spinner p-2 btn btn-primary fs-5 mb-5 mt-3"
             style={buttonStyle}
           >
             Get OTP

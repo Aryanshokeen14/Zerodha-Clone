@@ -11,7 +11,6 @@ import SupportPage from './landing_page/support/SupportPage.js';
 import NotFoundPage from './landing_page/NotFound.js';
 import Navbar from './landing_page/Navbar.js';
 import Footer from './landing_page/Footer.js';
-// import Dashboard from '.././/../Dashboard/src/index.js'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

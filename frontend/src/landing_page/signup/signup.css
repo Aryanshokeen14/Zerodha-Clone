@@ -5,5 +5,7 @@
   }
 
   .no-spinner {
-    -moz-appearance: textfield;
-  }
+  appearance: textfield;
+  -moz-appearance: textfield;
+  -webkit-appearance: none; /* optional, depends on what you're styling */
+}

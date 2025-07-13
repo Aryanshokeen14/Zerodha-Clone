@@ -18,7 +18,7 @@ function Team() {
                     <p>Playing basketball is his zen.</p>
                     <p>Connect on <a href="https://nithinkamath.me" style={{ textDecoration: "none" ,color:"#387ed1",fontWeight:"500"}}>Homepage
             </a> / <a href="https://tradingqna.com/u/nithin/summary" style={{ textDecoration: "none",color:"#387ed1",fontWeight:"500" }}>TradingQnA
-            </a> / <a href='' style={{ textDecoration: "none",color:"#387ed1",fontWeight:"500" }}>Twitter
+            </a> / <a href="/" style={{ textDecoration: "none",color:"#387ed1",fontWeight:"500" }}>Twitter
             </a></p>
                 </div>
             </div>

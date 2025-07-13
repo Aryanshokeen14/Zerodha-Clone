@@ -19,8 +19,8 @@ function LeftSection({
                 <h1>{productName}</h1>
                 <p>{productDescription}</p>
                 <div>
-                <a href="" style={{textDecoration:"none",color:"#387ed1",fontWeight:"500", marginRight:"70px"}}>{tryDemo}</a>
-                <a href="" style={{textDecoration:"none",color:"#387ed1",fontWeight:"500"}}>{learnMore}</a>
+                <a href="/" style={{textDecoration:"none",color:"#387ed1",fontWeight:"500", marginRight:"70px"}}>{tryDemo}</a>
+                <a href="/" style={{textDecoration:"none",color:"#387ed1",fontWeight:"500"}}>{learnMore}</a>
                 </div>
                 <div className='mt-4'>
                     <a href={googlePlay} style={{marginRight:"30px"}}><img src='media/images/googlePlayBadge.svg'/></a>

@@ -12,7 +12,7 @@ function RightSection({
             <div className='col-5' style={{marginTop:"180px"}}>
                 <h1>{productName}</h1>
                 <p>{productDescription}</p>
-                <a href="" style={{textDecoration:"none",color:"#387ed1",fontWeight:"500"}}>{learnMore}</a>
+                <a href="/" style={{textDecoration:"none",color:"#387ed1",fontWeight:"500"}}>{learnMore}</a>
             </div>
             <div className='col-6'>
                 <img src={imageURL}/>
